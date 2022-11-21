@@ -1,5 +1,7 @@
+import Home from '@/views/home/Home'
+
 const App = () => {
-  return <div className="flex">App</div>
+  return <Home />
 }
 
 export default App

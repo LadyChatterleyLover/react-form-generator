@@ -4,12 +4,12 @@
 
 html,
 body,
+#root,
 .ant-layout,
 .ant-layout-content,
 .ant-layout-sider,
 .ant-layout-sider-children,
-.ant-menu,
-#app {
+.ant-menu {
   height: 100%;
   box-sizing: border-box;
   overflow-x: hidden;
